@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Niyati\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v13\\values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\Niyati\\.android\\build-cache\\ece42e1b01a84f3178dbab627b2d238bebe83178\\output\\res\\values-v13\\values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]

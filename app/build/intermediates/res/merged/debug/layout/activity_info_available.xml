@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.nostallinapp.InfoAvailable"
+       android:orientation="vertical"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+
+    <TextView
+        android:id="@+id/location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#000000"/>
+
+    <TextView
+        android:id="@+id/no_of_stalls"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:text="1. How many stalls in men's room ?" />
+
+    <TextView
+        android:id="@+id/number_stalls"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textSize="15dp"
+        android:layout_gravity="center"
+        android:padding="15dp"
+        android:background="@drawable/back"
+
+        />
+
+    <TextView
+        android:id="@+id/lock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:text="2. How many stalls have doors?" />
+
+    <TextView
+        android:id="@+id/number_lock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textSize="15dp"
+        android:padding="15dp"
+        android:layout_gravity="center"
+        android:background="@drawable/back"
+        />
+    <TextView
+        android:id="@+id/gender_neutral"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:text="3. Is there also a gender-neutral bathroom ?" />
+    <TextView
+        android:id="@+id/number_gender_neutral"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textSize="15dp"
+        android:layout_gravity="center"
+        android:padding="15dp"
+        android:background="@drawable/back"
+        />
+
+
+    <TextView
+        android:id="@+id/floor_no"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:text="4. Which floor are you on?" />
+
+    <TextView
+        android:id="@+id/number_floors"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="15dp"
+        android:background="@drawable/back"
+        android:layout_marginBottom="20dp"
+        android:textSize="15dp"
+        />
+
+    <Button
+        android:id="@+id/add_more_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/green"
+        android:text="Add more Information" />
+</LinearLayout>
+
+</ScrollView>

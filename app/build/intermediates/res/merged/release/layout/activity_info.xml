@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.nostallinapp.InfoActivity"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="15dp"
+        android:layout_marginTop="50dp"
+        android:textSize="30dp"
+        android:textStyle="bold|italic"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="@string/no_info" />
+
+    <Button
+        android:id="@+id/check_out"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/green"
+        android:padding="10dp"
+        android:layout_marginBottom="25dp"
+        android:text="Yes, I'll check it out!" />
+
+    <Button
+        android:id="@+id/find_another"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="10dp"
+        android:background="@color/green"
+        android:text="Find Another" />
+
+</LinearLayout>
+</ScrollView>

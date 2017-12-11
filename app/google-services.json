@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "545939381537",
+    "firebase_url": "https://no-stallin-app-20ca5.firebaseio.com",
+    "project_id": "no-stallin-app-20ca5",
+    "storage_bucket": "no-stallin-app-20ca5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545939381537:android:bc2f7625d6b8c0d6",
+        "android_client_info": {
+          "package_name": "com.nostallinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545939381537-kppnhruloa791l225kfeq7ol6pl2qkai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nostallinapp",
+            "certificate_hash": "4fcdc1507f013d9966055089109400335637e030"
+          }
+        },
+        {
+          "client_id": "545939381537-ntvh79feufsj28dk69j5pk181i9g7h9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIxK91uxzSVUZ_Pa83CtcY8MhW0E0ggt4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545939381537-ntvh79feufsj28dk69j5pk181i9g7h9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
