@@ -4,11 +4,23 @@
         "source": "C:\\Users\\Niyati\\AndroidStudioProjects\\NoStallinApp\\app\\src\\main\\res\\menu\\menu_main.xml"
     },
     {
+        "merged": "C:\\Users\\Lacko\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\Lacko\\AndroidStudioProjects\\NoStallinApp\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
         "merged": "C:\\Users\\Niyati\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main_activity.xml",
         "source": "C:\\Users\\Niyati\\AndroidStudioProjects\\NoStallinApp\\app\\src\\main\\res\\menu\\menu_main_activity.xml"
     },
     {
+        "merged": "C:\\Users\\Lacko\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main_activity.xml",
+        "source": "C:\\Users\\Lacko\\AndroidStudioProjects\\NoStallinApp\\app\\src\\main\\res\\menu\\menu_main_activity.xml"
+    },
+    {
         "merged": "C:\\Users\\Niyati\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\feedback.xml",
         "source": "C:\\Users\\Niyati\\AndroidStudioProjects\\NoStallinApp\\app\\src\\main\\res\\menu\\feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lacko\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\feedback.xml",
+        "source": "C:\\Users\\Lacko\\AndroidStudioProjects\\NoStallinApp\\app\\src\\main\\res\\menu\\feedback.xml"
     }
 ]

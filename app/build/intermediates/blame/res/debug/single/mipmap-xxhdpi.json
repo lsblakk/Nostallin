@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Lacko\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Lacko\\AndroidStudioProjects\\NoStallinApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
         "merged": "C:\\Users\\Niyati\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
         "source": "C:\\Users\\Niyati\\AndroidStudioProjects\\NoStallinApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
@@ -10,5 +14,13 @@
     {
         "merged": "C:\\Users\\Niyati\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\icon.png",
         "source": "C:\\Users\\Niyati\\AndroidStudioProjects\\NoStallinApp\\app\\src\\main\\res\\mipmap-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lacko\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Lacko\\AndroidStudioProjects\\NoStallinApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lacko\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\icon.png",
+        "source": "C:\\Users\\Lacko\\AndroidStudioProjects\\NoStallinApp\\app\\src\\main\\res\\mipmap-xxhdpi\\icon.png"
     }
 ]

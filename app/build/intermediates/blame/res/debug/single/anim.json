@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Lacko\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9e58103e894186c31aa1bd7eb309430f6205ffbe\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
         "merged": "C:\\Users\\Niyati\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
         "source": "C:\\Users\\Niyati\\.android\\build-cache\\ece42e1b01a84f3178dbab627b2d238bebe83178\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
@@ -10,6 +14,14 @@
     {
         "merged": "C:\\Users\\Niyati\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
         "source": "C:\\Users\\Niyati\\.android\\build-cache\\ece42e1b01a84f3178dbab627b2d238bebe83178\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lacko\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9e58103e894186c31aa1bd7eb309430f6205ffbe\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lacko\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9e58103e894186c31aa1bd7eb309430f6205ffbe\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "C:\\Users\\Niyati\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
@@ -24,12 +36,36 @@
         "source": "C:\\Users\\Niyati\\.android\\build-cache\\ece42e1b01a84f3178dbab627b2d238bebe83178\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
+        "merged": "C:\\Users\\Lacko\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9e58103e894186c31aa1bd7eb309430f6205ffbe\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lacko\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9e58103e894186c31aa1bd7eb309430f6205ffbe\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
         "merged": "C:\\Users\\Niyati\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
         "source": "C:\\Users\\Niyati\\.android\\build-cache\\ece42e1b01a84f3178dbab627b2d238bebe83178\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
+        "merged": "C:\\Users\\Lacko\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9e58103e894186c31aa1bd7eb309430f6205ffbe\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lacko\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9e58103e894186c31aa1bd7eb309430f6205ffbe\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lacko\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9e58103e894186c31aa1bd7eb309430f6205ffbe\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
         "merged": "C:\\Users\\Niyati\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
         "source": "C:\\Users\\Niyati\\.android\\build-cache\\ece42e1b01a84f3178dbab627b2d238bebe83178\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lacko\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9e58103e894186c31aa1bd7eb309430f6205ffbe\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
         "merged": "C:\\Users\\Niyati\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
@@ -38,5 +74,9 @@
     {
         "merged": "C:\\Users\\Niyati\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
         "source": "C:\\Users\\Niyati\\.android\\build-cache\\ece42e1b01a84f3178dbab627b2d238bebe83178\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lacko\\AndroidStudioProjects\\NoStallinApp\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Android\\.android\\build-cache\\9e58103e894186c31aa1bd7eb309430f6205ffbe\\output\\res\\anim\\abc_fade_out.xml"
     }
 ]
